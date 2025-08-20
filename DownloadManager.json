@@ -3,7 +3,7 @@
   "versionName": "5.1",
   "apkSize": 9,
   "enabledDark": false,
-  "forceUp": false,
+  "forceUp": true,
   "whatIsNew": [
     "Performance improved and some bugs fixed.",
     "Android 14 support",
